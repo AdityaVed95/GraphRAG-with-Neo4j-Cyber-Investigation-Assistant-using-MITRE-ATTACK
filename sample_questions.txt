@@ -1,0 +1,12 @@
+1. How does APT29 use PowerShell, and which mitigations address that technique?
+2. Which software does Cozy Bear use? Show five examples and their sources.
+3. Which techniques do APT29 and APT28 share, and what tactics do they belong to? Show five examples.
+4. Which groups use Mimikatz, and which techniques does the software support? Show five groups.
+5. How does APT29 steal credentials on Windows? Show three documented procedure examples with sources.
+6. Which mitigations address LSASS Memory credential dumping, and what does each mitigation recommend?
+7. What are the sub-techniques of OS Credential Dumping, and how do their methods differ?
+8. Which techniques used by APT29 support lateral movement? Show five examples with procedure descriptions.
+9. Which five mitigations cover the most distinct techniques directly used by APT29?
+10. Which five groups have the most directly documented technique connections? Count distinct techniques.
+11. Which campaigns are attributed to APT29, and when were they first and last observed?
+12. Which five campaigns have the latest last_seen dates, and which groups are they attributed to, when known?
